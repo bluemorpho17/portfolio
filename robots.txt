@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marwa-ghali.netlify.app/sitemap.xml
